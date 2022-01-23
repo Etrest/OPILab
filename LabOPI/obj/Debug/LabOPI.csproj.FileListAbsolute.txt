@@ -1,0 +1,11 @@
+E:\Для учебы\ОПИ\LabOPI\bin\Debug\wrs.mdb
+E:\Для учебы\ОПИ\LabOPI\bin\Debug\LabOPI.exe.config
+E:\Для учебы\ОПИ\LabOPI\bin\Debug\LabOPI.exe
+E:\Для учебы\ОПИ\LabOPI\bin\Debug\LabOPI.pdb
+E:\Для учебы\ОПИ\LabOPI\obj\Debug\LabOPI.csproj.AssemblyReference.cache
+E:\Для учебы\ОПИ\LabOPI\obj\Debug\LabOPI.Form1.resources
+E:\Для учебы\ОПИ\LabOPI\obj\Debug\LabOPI.Properties.Resources.resources
+E:\Для учебы\ОПИ\LabOPI\obj\Debug\LabOPI.csproj.GenerateResource.cache
+E:\Для учебы\ОПИ\LabOPI\obj\Debug\LabOPI.csproj.CoreCompileInputs.cache
+E:\Для учебы\ОПИ\LabOPI\obj\Debug\LabOPI.exe
+E:\Для учебы\ОПИ\LabOPI\obj\Debug\LabOPI.pdb
